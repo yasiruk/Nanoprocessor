@@ -1,0 +1,29 @@
+Command line:
+   MUX3bit_2way_MUX3bit_2way_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58806
+
+Fri May 02 19:29:46 2014
+
+
+ Elaboration Time: 0.374402 sec
+
+ Current Memory Usage: 680.501 Meg
+
+ Total Signals          : 75
+ Total Nets             : 44
+ Total Signal Drivers   : 15
+ Total Blocks           : 17
+ Total Primitive Blocks : 15
+ Total Processes        : 13
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 527
+Total Line Count : 22
+
+ Total Simulation Time: 0.483603 sec
+
+ Current Memory Usage: 995.074 Meg
+
+Fri May 02 19:31:00 2014
+

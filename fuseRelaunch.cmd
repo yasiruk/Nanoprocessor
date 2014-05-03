@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/wik2kassa/ISE/Microprocessor/MUX3bit_2way_MUX3bit_2way_sch_tb_isim_beh.exe" -prj "C:/Users/wik2kassa/ISE/Microprocessor/MUX3bit_2way_MUX3bit_2way_sch_tb_beh.prj" "work.MUX3bit_2way_MUX3bit_2way_sch_tb" 

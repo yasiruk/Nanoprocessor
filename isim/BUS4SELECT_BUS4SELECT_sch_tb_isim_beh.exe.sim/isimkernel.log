@@ -1,0 +1,29 @@
+Command line:
+   BUS4SELECT_BUS4SELECT_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52053
+
+Thu May 01 18:44:48 2014
+
+
+ Elaboration Time: 0.358802 sec
+
+ Current Memory Usage: 680.493 Meg
+
+ Total Signals          : 52
+ Total Nets             : 37
+ Total Signal Drivers   : 9
+ Total Blocks           : 10
+ Total Primitive Blocks : 8
+ Total Processes        : 6
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 520
+Total Line Count : 13
+
+ Total Simulation Time: 0.405602 sec
+
+ Current Memory Usage: 680.493 Meg
+
+Thu May 01 19:05:36 2014
+

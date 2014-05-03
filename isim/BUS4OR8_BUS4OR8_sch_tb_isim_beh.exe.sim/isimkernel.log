@@ -1,0 +1,29 @@
+Command line:
+   BUS4OR8_BUS4OR8_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52514
+
+Thu May 01 19:37:13 2014
+
+
+ Elaboration Time: 0.405603 sec
+
+ Current Memory Usage: 680.497 Meg
+
+ Total Signals          : 207
+ Total Nets             : 77
+ Total Signal Drivers   : 24
+ Total Blocks           : 33
+ Total Primitive Blocks : 27
+ Total Processes        : 17
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 560
+Total Line Count : 85
+
+ Total Simulation Time: 0.436803 sec
+
+ Current Memory Usage: 680.497 Meg
+
+Thu May 01 19:37:20 2014
+

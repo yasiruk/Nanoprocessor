@@ -1,0 +1,4 @@
+vhdl work "BUS4SELECT.vhf"
+vhdl work "BUS4OR8.vhf"
+vhdl work "MUX8W_4BIT.vhf"
+vhdl work "muxtest.vhd"
